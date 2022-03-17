@@ -99,7 +99,7 @@ the former mentee and mentor to continue communicating regularly.
 
 ## Documents
 
-.. toctree::
-
-   mentee_handbook.md
-   mentor_handbook.md
+```{toctree}
+mentee_handbook
+mentor_handbook
+```
