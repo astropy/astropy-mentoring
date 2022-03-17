@@ -99,5 +99,7 @@ the former mentee and mentor to continue communicating regularly.
 
 ## Documents
 
-* [Mentee handbook](mentee_handbook)
-* [Mentor handbook](mentor_handbook)
+.. toctree::
+
+   mentee_handbook.md
+   mentor_handbook.md
