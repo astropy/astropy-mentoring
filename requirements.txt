@@ -1,2 +1,2 @@
-astropy-sphinx-theme
+pydata-sphinx-theme
 myst-parser
