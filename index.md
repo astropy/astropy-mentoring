@@ -94,7 +94,7 @@ to the formal role - and they should reply to the email with their conclusions.
 
 Once the mentor has determined that the mentee is ready to join the formal role,
 they should go through the standard project process to nominate someone to a role.
-Once the role is approved, the formal 'mentoring' ends, but we encourage
+Once the role is approved, the formal mentoring program ends, but we encourage
 the former mentee and mentor to continue communicating regularly.
 
 ## Documents
