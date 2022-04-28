@@ -96,13 +96,13 @@ Effective mentees:
 
 -   Take advantage of opportunities
 
-### The mentoring process
+## The mentoring process
 
 ![Process Flowchart](./mentoring_process_flowchart.png)
 
 Add more content here about what the mentors have to do process wise.
 
-#### The first meeting
+### The first meeting
 
 *Conversation guide*
 
@@ -173,7 +173,7 @@ help.
 
 - [ ] Discuss action items to be completed before the next meeting.
 
-#### Build an action plan
+### Build an action plan
 
 Together, mentor and mentee should create an action plan to achieve the
 objectives that the mentee established at the beginning of the
@@ -188,7 +188,7 @@ needed.
 | **#2** |                       |                       |                                                               |                                            |                                                           |                           |
 | **#3** |                       |                       |                                                               |                                            |                                                           |                           |
 
-### Further support
+## Further support
 
 *Add details here of how they contact mentoring coordinator / Stu / Tom
 for further support*
