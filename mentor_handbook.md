@@ -100,7 +100,29 @@ Effective mentees:
 
 ![Process Flowchart](./mentoring_process_flowchart.png)
 
-Add more content here about what the mentors have to do process wise.
+### Recruitment
+
+The Mentoring Coordinator will be responsible for finding and contacting potential mentors.
+If those mentors agree to take part, the MC will then add their details to the mentor database (link).
+The MC will then train the new mentor to make sure they understand the responsibilities of the role.
+
+Potential mentees should open an issue with their details on the astropy-mentoring GitHub repo.
+OR
+Potential mentees should go to the astropy mentoring website (link) and complete a profile form.
+[Above depends on how much privacy you want, which is a decision for astropy to take.]
+Mentors will also be encouraged to find potential mentees and encourage them to apply.
+
+### Getting started
+
+When the MC recieves a suitable application/PR, they will approve the mentee to join the program, and send them the appropriate guidance - this documentation, the mentee handbook, etc. [Note: this step can potentially be automated later on.]
+Then the MC will review the mentor database, pair the new mentee with an appropriate mentor and inform them both of the pairing.
+Guidance on the mentor/mentee agreement should also be sent to both at this time by the MC. [Note: again, can be automated later.]
+
+## Day-to-day mentoring
+
+During the mentoring process the mentor and mentee will meet regularly to discuss progress. (link to other sections on meetings)
+Once a month, the MC will send a message to the mentor to check in [Note: can also be automated] and the mentor should email the MC a report on the current progress of the mentee.
+Every three months the MC will conduct a quarterly review via email, assessing whether the mentee is ready to graduate from the program.
 
 ### The first meeting
 
