@@ -188,6 +188,15 @@ needed.
 | **#2** |                       |                       |                                                               |                                            |                                                           |                           |
 | **#3** |                       |                       |                                                               |                                            |                                                           |                           |
 
+## In case of problems
+
+Occasionally the mentee may need to exit the mentoring scheme without 'graduating',
+or the mentor may no longer be able to continue working with the mentee. Either might
+happen for a variety of reasons - time constraints, breakdown of the mentor/mentee
+relationship, etc. If this is the case, the mentor should contact the mentoring
+coordinator and explain the situation. The mentoring coordinator will then take
+the appropriate action depending on the circumstances.
+
 ## Further support
 
 *Add details here of how they contact mentoring coordinator / Stu / Tom
