@@ -100,29 +100,32 @@ Effective mentees:
 
 ![Process Flowchart](./mentoring_process_flowchart.png)
 
-### Recruitment
+Successful applicants to the mentoring program will be paired with a suitable
+mentor (when possible) by the mentoring coordinator. Current members of the
+Astropy team may also identify potential mentees they would like to train in
+their role and encourage them to apply. Once paired, the mentor and mentee will
+both be sent guidance and recommendations - including this documentation - by
+the mentoring coordinator. The mentor will then be responsible for holding
+regular meetings with the mentee, and for guiding and supporting them
+appropriately throughout the mentoring process.
 
-The Mentoring Coordinator will be responsible for finding and contacting potential mentors.
-If those mentors agree to take part, the MC will then add their details to the mentor database (link).
-The MC will then train the new mentor to make sure they understand the responsibilities of the role.
+During meetings the mentor should discuss with the mentee what they want to
+achieve from the program and where their current skills or behaviours fall short
+of that aim. For instance, the mentee might wish to become a sub-package
+maintainer but lack experience with that particular sub-package (skill/knowledge
+gap), or have a poor record of reviewing PRs (behavioural gap). Once identified,
+the mentor and mentee should agree an action plan to address these gaps (see
+"Build an action plan" below). In each meeting the mentee's progress should be
+assessed, any new aims and gaps should be discussed and a new action plan should
+be agreed if necessary.
 
-Potential mentees should open an issue with their details on the astropy-mentoring GitHub repo.
-OR
-Potential mentees should go to the astropy mentoring website (link) and complete a profile form.
-[Above depends on how much privacy you want, which is a decision for astropy to take.]
-Mentors will also be encouraged to find potential mentees and encourage them to apply.
-
-### Getting started
-
-When the MC recieves a suitable application/PR, they will approve the mentee to join the program, and send them the appropriate guidance - this documentation, the mentee handbook, etc. [Note: this step can potentially be automated later on.]
-Then the MC will review the mentor database, pair the new mentee with an appropriate mentor and inform them both of the pairing.
-Guidance on the mentor/mentee agreement should also be sent to both at this time by the MC. [Note: again, can be automated later.]
-
-## Day-to-day mentoring
-
-During the mentoring process the mentor and mentee will meet regularly to discuss progress. (link to other sections on meetings)
-Once a month, the MC will send a message to the mentor to check in [Note: can also be automated] and the mentor should email the MC a report on the current progress of the mentee.
-Every three months the MC will conduct a quarterly review via email, assessing whether the mentee is ready to graduate from the program.
+Both the mentor and mentee will be prompted to check in with the mentoring
+coordinator monthly, to ensure that there are no issues requiring their
+attention. Additionally, every three months the mentor will be asked to decide
+whether the mentee has progressed enough to graduate to their chosen role or if
+they should continue with the mentoring program. If the mentee is ready to
+graduate, the mentor should nominate them for the role following the usual 
+process.
 
 ### The first meeting
 
