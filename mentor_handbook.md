@@ -107,7 +107,8 @@ their role and encourage them to apply. Once paired, the mentor and mentee will
 both be sent guidance and recommendations - including this documentation - by
 the mentoring coordinator. The mentor will then be responsible for holding
 regular meetings with the mentee, and for guiding and supporting them
-appropriately throughout the mentoring process.
+appropriately throughout the mentoring process. This is all described in more
+detail on the [main page](index.md).
 
 During meetings the mentor should discuss with the mentee what they want to
 achieve from the program and where their current skills or behaviours fall short
