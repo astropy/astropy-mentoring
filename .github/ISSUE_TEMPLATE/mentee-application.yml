@@ -23,7 +23,7 @@ body:
     id: role
     attributes:
       label: Which role would you like to apply for and why
-      description: The aim of the mentoring program is to eventually enable you to join the astropy team. Let us know which role you are interested in and what interests you about it. This will help us find you a suitable mentor. -->
+      description: The aim of the mentoring program is to eventually enable you to join the astropy team. Let us know which role you are interested in and what interests you about it. This will help us find you a suitable mentor.
     validations:
       required: true
   - type: textarea
