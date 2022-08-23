@@ -98,4 +98,34 @@ Effective mentors:
 
 ![Process Flowchart](./mentoring_process_flowchart.png)
 
-*Need to add more specifics here once agreed*
+Successful applicants to the mentoring program will be paired with a suitable
+mentor (when possible) by the mentoring coordinator. Current members of the
+Astropy team may also identify potential mentees they would like to train in
+their role and encourage them to apply. Mentees will apply for the program by
+opening an issue on the astropy-mentoring repo, and the chosen mentor will be
+assigned to that issue.
+
+Once paired, the mentor and mentee will both be sent guidance and
+recommendations - including this documentation - by the mentoring coordinator.
+The mentor will then be responsible for holding regular meetings with the
+mentee, and for guiding and supporting them appropriately throughout the
+mentoring process. This is all described in more detail on the
+[main page](index.md).
+
+During meetings the mentor should discuss with the mentee what they want to
+achieve from the program and where their current skills or behaviours fall short
+of that aim. For instance, the mentee might wish to become a sub-package
+maintainer but lack experience with that particular sub-package (skill/knowledge
+gap), or have a poor record of reviewing PRs (behavioural gap). Once identified,
+the mentor and mentee should agree an action plan to address these gaps (see
+"Build an action plan" below). In each meeting the mentee's progress should be
+assessed, any new aims and gaps should be discussed and a new action plan should
+be agreed if necessary.
+
+Both the mentor and mentee will be prompted to check in with the mentoring
+coordinator monthly, to ensure that there are no issues requiring their
+attention. Additionally, every three months the mentor will be asked to decide
+whether the mentee has progressed enough to graduate to their chosen role or if
+they should continue with the mentoring program. These check-ins will use the
+mentee's application issue. If the mentee is ready to graduate, the mentor
+should nominate them for the role following the usual process.
