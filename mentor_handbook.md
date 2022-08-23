@@ -225,5 +225,15 @@ the appropriate action depending on the circumstances.
 
 ## Further support
 
-*Add details here of how they contact mentoring coordinator / Stu / Tom
-for further support*
+If you need any more detail on any of the information in this hanbook, or come 
+across a situation that isn't covered and need assistance, you should contact
+the mentoring coordinator, through the [astropy Slack](https://astropy.slack.com/).
+The current mentoring coordinator can be found on the
+[astropy team page](https://www.astropy.org/team.html).
+
+Alternatively - particularly if you have questions relating to the running of
+the mentoring program itself rather than a mentor/mentee specific issue - you
+may wish to contact Stuart, Tom and Drew at Aperio Software, who are currently
+administering the program. They are also available through the astropy Slack, or
+you can find their individual contact details
+[on the Aperio website](https://aperiosoftware.com/people).
