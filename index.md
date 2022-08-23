@@ -82,13 +82,13 @@ most suitable to the mentee.
 ### Progress check-in and reviews
 
 The mentoring program will send automated monthly check-ins with mentors and
-mentees by email to ask if there are any issues that need to be raised with the
-mentoring coordinator (with the default of not needing to reply if everything is
-going well).
+mentees to ask if there are any issues that need to be raised with the mentoring
+coordinator (with the default of not needing to reply if everything is going
+well).
 
-Every three months, the mentor will be sent an automated email to ask them to
+Every three months, the mentor will be sent an automated message to ask them to
 assess progress progress and determine whether the mentee is ready to 'graduate'
-to the formal role - and they should reply to the email with their conclusions.
+to the formal role - and they should reply with their conclusions.
 
 ### 'Graduation'
 
