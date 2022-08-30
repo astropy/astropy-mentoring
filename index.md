@@ -7,12 +7,6 @@ documentation is not ready for use.
 
 ## Goals of the program
 
-While the Astropy project has been successful in attracting code contributions
-and feedback from the community, one of the biggest challenges for the
-sustainability of the project is training people to take on formal roles and
-responsibilities in the project, such as taking on maintainer roles for packages
-or sub-packages, or taking on other formal roles in the project.
-
 The Astropy mentoring program provides a lightweight but formal framework to
 encourage, recruit, and train both new maintainers for the astropy core and
 coordinated packages, as well as people into other formal project roles.
