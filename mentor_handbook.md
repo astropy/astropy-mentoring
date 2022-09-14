@@ -103,12 +103,16 @@ Effective mentees:
 Successful applicants to the mentoring program will be paired with a suitable
 mentor (when possible) by the mentoring coordinator. Current members of the
 Astropy team may also identify potential mentees they would like to train in
-their role and encourage them to apply. Once paired, the mentor and mentee will
-both be sent guidance and recommendations - including this documentation - by
-the mentoring coordinator. The mentor will then be responsible for holding
-regular meetings with the mentee, and for guiding and supporting them
-appropriately throughout the mentoring process. This is all described in more
-detail on the [main page](index.md).
+their role and encourage them to apply. Mentees will apply for the program by
+opening an issue on the astropy-mentoring repo, and the chosen mentor will be
+assigned to that issue.
+
+Once paired, the mentor and mentee will both be sent guidance and
+recommendations - including this documentation - by the mentoring coordinator.
+The mentor will then be responsible for holding regular meetings with the
+mentee, and for guiding and supporting them appropriately throughout the
+mentoring process. This is all described in more detail on the [main
+page](index.md).
 
 During meetings the mentor should discuss with the mentee what they want to
 achieve from the program and where their current skills or behaviours fall short
@@ -124,9 +128,9 @@ Both the mentor and mentee will be prompted to check in with the mentoring
 coordinator monthly, to ensure that there are no issues requiring their
 attention. Additionally, every three months the mentor will be asked to decide
 whether the mentee has progressed enough to graduate to their chosen role or if
-they should continue with the mentoring program. If the mentee is ready to
-graduate, the mentor should nominate them for the role following the usual 
-process.
+they should continue with the mentoring program. These check-ins will use the
+mentee's application issue. If the mentee is ready to graduate, the mentor
+should nominate them for the role following the usual process.
 
 ### The first meeting
 

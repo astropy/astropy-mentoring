@@ -76,13 +76,13 @@ most suitable to the mentee.
 ### Progress check-in and reviews
 
 The mentoring program will send automated monthly check-ins with mentors and
-mentees by email to ask if there are any issues that need to be raised with the
-mentoring coordinator (with the default of not needing to reply if everything is
-going well).
+mentees to ask if there are any issues that need to be raised with the mentoring
+coordinator (with the default of not needing to reply if everything is going
+well).
 
-Every three months, the mentor will be sent an automated email to ask them to
+Every three months, the mentor will be sent an automated message to ask them to
 assess progress progress and determine whether the mentee is ready to 'graduate'
-to the formal role - and they should reply to the email with their conclusions.
+to the formal role - and they should reply with their conclusions.
 
 ### 'Graduation'
 
@@ -90,6 +90,27 @@ Once the mentor has determined that the mentee is ready to join the formal role,
 they should go through the standard project process to nominate someone to a role.
 Once the role is approved, the formal mentoring program ends, but we encourage
 the former mentee and mentor to continue communicating regularly.
+
+## Applications and tracking progress
+
+Mentees will apply for the mentoring scheme by opening an issue on the
+astropy-mentoring GitHub repository. This issue will use a template to ensure
+that the applicant provides the information necessary for possible mentors and
+the mentoring coordinator to assess the application. When the issue is created,
+the mentoring coordinator will automatically be assigned to the issue, so that
+they can promptly begin looking for a suitable mentor. Once a suitable mentor is
+found, they will also be assigned to the issue.
+
+The issue will remain open during the mentorship and will serve as a way to
+track the mentee's progress in a way that is transparent and  easily accessible
+by all parties. The monthly and three-monthly check-ins will be conducted by
+comments left on the issue, to which the mentor and mentee can respond as 
+necessary, with the option to move to a more appropriate platform (e.g. email)
+if a more detailed or private discussion is required.
+
+At the end of the mentorship, the mentee should open a PR to the repo adding
+their name to the list of successful participants, and this PR should close the
+issue.
 
 ## Documents
 
