@@ -11,14 +11,14 @@ body:
       label: Name
       description: Please give your name
     validations:
-      required: false
+      required: true
   - type: input
     id: slack
     attributes:
       label: Slack username
       description: Please give the username you use on Slack/matrix (if it's different to your GitHub username) so that we know who to associate the application with.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: role
     attributes:
