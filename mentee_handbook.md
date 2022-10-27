@@ -98,4 +98,78 @@ Effective mentors:
 
 ![Process Flowchart](./mentoring_process_flowchart.png)
 
-*Need to add more specifics here once agreed*
+Successful applicants to the mentoring program will be paired with a suitable
+mentor (when possible) by the mentoring coordinator. Current members of the
+Astropy team may also identify potential mentees they would like to train in
+their role and encourage them to apply. Mentees will apply for the program by
+opening an issue on the astropy-mentoring repo, and the chosen mentor will be
+assigned to that issue.
+
+Once paired, the mentor and mentee will both be sent guidance and
+recommendations - including this documentation - by the mentoring coordinator.
+The mentor will then be responsible for holding regular meetings with the
+mentee, and for guiding and supporting them appropriately throughout the
+mentoring process. This is all described in more detail on the [main
+page](index.md).
+
+During meetings the mentee should be honest with the mentor about what they want
+to achieve from the program and where their current skills or behaviours fall
+short of that aim. For instance, the mentee might wish to become a sub-package
+maintainer but lack experience with that particular sub-package (skill/knowledge
+gap), or have a poor record of reviewing PRs (behavioural gap). Once identified,
+the mentor and mentee should agree an action plan to address these gaps. In each
+meeting the mentee's progress should be assessed, any new aims and gaps should
+be discussed and a new action plan should be agreed if necessary.
+
+Both the mentor and mentee will be prompted to check in with the mentoring
+coordinator monthly, to ensure that there are no issues requiring their
+attention. Additionally, every three months the mentor will be asked to decide
+whether the mentee has progressed enough to graduate to their chosen role or if
+they should continue with the mentoring program. These check-ins will use the
+mentee's application issue. If the mentee is ready to graduate, the mentor
+should nominate them for the role following the usual process.
+
+### The first meeting
+
+*Conversation guide*
+
+To build a strong foundation for a mentoring relationship, it is
+critical to build trust and clearly establish expectations at the
+beginning. Your mentor will use the following questions to guide your first
+mentoring conversation, which will help you get to know one another and
+establish mutual expectations and goals. Think about the answers to these
+questions before meeting your mentor.
+
+Consider where you are now, and where you are trying to get to -- the
+specific skills, knowledge and behaviours you will need to take on
+your aspired role. Your mentor will help you identify these.
+
+**Background**
+
+- What is your background?
+
+- What are your greatest strengths and development areas?
+
+- What are your short-term goals?  Long-term goals?
+
+**Expectations**
+
+- What topics would you like to cover to help you feel confident in this role?
+
+- What specific skills or knowledge would you like to cover in our meetings?
+
+- How do you prefer to communicate between meetings?
+
+- What role do you expect your mentor to play?
+
+- Are there any ground rules you would like to set?
+
+## Further support
+
+If you need any more detail on any of the information in this handbook, come
+across a situation that isn't covered and need assistance or have questions
+relating to the running of the program itself, you should contact the mentoring
+coordinator. The current mentoring coordinator is Aperio Software Ltd., which is
+also administering the program. Stuart, Tom and Drew at Aperio can be reached
+through the [Astropy Slack](https://astropy.slack.com/), or you can send an
+email to [mentoring@aperiosoftware.com](mailto:mentoring@aperiosoftware.com).
