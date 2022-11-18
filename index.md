@@ -54,13 +54,17 @@ reaches out to potential mentors. A mentor is ideally someone who already holds
 the role that the mentee is interested in also joining, but in cases where the
 role is unfilled, it could be someone in a similar role (for example, if one of
 the core sub-packages has a role which is vacant, another core package developer
-might be able to act as a mentor).
+might be able to act as a mentor). Potential mentors may also wish to speak to
+the applicant directly - either over Slack/matrix, video call or on the 
+application issue on Github - to discuss the applicant's goals and suitability 
+for the program.
 
 If a willing and available mentor is identified, they fill out a form to also be
 registered in the mentoring scheme (if they have not already done so
 previously). However, it may be that there are no individuals available to
-mentor -- thus we cannot guarantee that everyone who wants to become a mentee
-would be able to do so.
+mentor, or that all available mentors consider the application to be unsuitable
+-- thus we cannot guarantee that all applications to become a mentee will be 
+accepted.
 
 ### Mentoring program guidance
 
